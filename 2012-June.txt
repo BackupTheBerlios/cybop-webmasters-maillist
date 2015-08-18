@@ -1,0 +1,30 @@
+From christian.heller at tuxtax.de  Thu Jun 14 09:26:31 2012
+From: christian.heller at tuxtax.de (Christian Heller)
+Date: Thu, 14 Jun 2012 09:26:31 +0200
+Subject: [cybop-webmasters] New Project Portal
+Message-ID: <20120614092631.Horde.xPiSLsL8999P2ZInl5BB9BA@webmail.df.eu>
+
+Dear Fellows,
+
+since the berliOS developer portal announced end of 2011
+that it would close down, the CYBOP project moved to:
+
+http://savannah.nongnu.org/projects/cybop/
+http://www.nongnu.org/cybop/
+
+If you are interested, please sign the NEW mailing list:
+
+cybop-developers at nongnu.org
+https://lists.nongnu.org/mailman/listinfo/cybop-developers
+
+Best regards,
+Christian
+
+-- 
+Reform our monetary system!
+Use community currencies!
+Central banks like FED are private. Let the state issue money!
+http://www.humane-wirtschaft.de/beitraege/in-english/
+
+
+
